@@ -4,7 +4,6 @@ Chatbot made in Python using Natural Language Toolkit especially Machine Learnin
 
 ![Live CHATBOT-2](https://user-images.githubusercontent.com/28294942/134822533-35c1e851-1dde-44d6-9113-39dff062239f.gif)
 
-### Youtube Explanation : https://youtu.be/tLormT06XS0
 
 ### Chatbot:
 
