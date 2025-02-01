@@ -27,9 +27,6 @@ We are using Machine Learning techniques and especially Natural Language toolkit
 
 ### LIVE CHATBOT RUNNING
 
-:Click to Play
-
-https://user-images.githubusercontent.com/28294942/134821805-0d593dac-0b21-4f9f-88df-eccc9539fe42.mov
 
 ### NLP:
 
